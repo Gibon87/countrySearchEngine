@@ -1,7 +1,6 @@
 <h1>Let's find some interesting places!</h1>
-<p>visit all the coutries in the whole world. 
- </p>
- 
+<p>visit all the coutries in the whole world. </p>
+Demo: https://gibon87.github.io/countrySearchEngine/ 
 <hr>
 
 <h2>How to use: </h2>
